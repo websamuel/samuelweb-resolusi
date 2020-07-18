@@ -3,8 +3,11 @@
 -JAVASCRIPT
   *ES6
   *Framework JavaScript
+   ^ Vue
 -Struktur data dasar
 -PHP Framework
+ ^ Laravel
 -HTML
 -CSS
 -Database MySql
+-Python
