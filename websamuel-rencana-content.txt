@@ -3,10 +3,11 @@
 -JAVASCRIPT
   *ES6
   *Framework JavaScript
-   ^ Angular
+    ^ Angular
+-Struktur data dasar
 -PHP Framework
-  ^ Laravel
-  ^ CodeIgniter
+ ^ Laravel
 -HTML
 -CSS
 -Database MySql
+-Python
