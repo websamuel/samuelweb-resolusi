@@ -1,10 +1,10 @@
-RENCANA KONTEN WEBSAMUEL
+-RENCANA KONTEN WEBSAMUEL
 
-JAVASCRIPT
-*ES6
-*Framework JavaScript
-
-PHP Framework
-HTML
-CSS
-Database MySql
+-JAVASCRIPT
+  *ES6
+  *Framework JavaScript
+-Struktur data dasar
+-PHP Framework
+-HTML
+-CSS
+-Database MySql
