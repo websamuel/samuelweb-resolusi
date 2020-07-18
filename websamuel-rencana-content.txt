@@ -1,6 +1,9 @@
 RENCANA KONTEN WEBSAMUEL
 
 JAVASCRIPT
+*ES6
+*Framework JavaScript
+
 PHP Framework
 HTML
 CSS
