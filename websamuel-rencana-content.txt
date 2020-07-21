@@ -8,8 +8,11 @@
     ^ React
 -Struktur data dasar
 -PHP Framework
- ^ Laravel
+  ^ Laravel
+  ^ CodeIgniter
 -HTML
 -CSS
--Database MySql
+-Database 
+  ^ MySql
+  ^ Oracle
 -Python
