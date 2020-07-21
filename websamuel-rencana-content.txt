@@ -4,10 +4,15 @@
   *ES6
   *Framework JavaScript
     ^ Angular
+    ^ Vue
+    ^ React
 -Struktur data dasar
 -PHP Framework
- ^ Laravel
+  ^ Laravel
+  ^ CodeIgniter
 -HTML
 -CSS
--Database MySql
+-Database 
+  ^ MySql
+  ^ Oracle
 -Python

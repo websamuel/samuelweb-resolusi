@@ -1,0 +1,5 @@
+Halo mr, kenalkan nama saya Rickson dari Jakarta
+
+Resolusi saya :
+- Membuat web menggunakan framework javascript
+- Bekerja di start-up
